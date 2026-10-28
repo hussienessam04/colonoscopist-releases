@@ -1,0 +1,9 @@
+{
+  "payload": {
+    "vendorKey": "k1",
+    "version": 0,
+    "generatedAt": 1793150734277,
+    "revoked": []
+  },
+  "signature": "ee11d85cf895e7104812fe34d271367c031f3ab10825c1625ca1ca10e714fc75d59a83fe9ba22648854f8801f544a335b822a3688d94ef57c0204abefdabbe0a"
+}
